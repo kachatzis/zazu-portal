@@ -1,0 +1,12 @@
+
+
+/* Fix MDL */
+.mdl-button.mdl-button--colored {
+	color: #3dc315;
+    font-weight: 550;
+}
+
+.mdl-button--accent.mdl-button--accent {
+	color: #3dc315;
+    font-weight: 700;
+}
